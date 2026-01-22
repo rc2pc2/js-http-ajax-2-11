@@ -40,7 +40,3 @@ axios.get(apiUrl)
 
 });
 // & fine chiamata axios
-
-// * se la chiamata ha un certo risultato fai x
-// * altrimenti y
-// * altrimenti z
